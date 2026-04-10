@@ -12,7 +12,7 @@ A beautiful and interactive star rating component built with HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://iam269.github.io/Star-Rating/](https://iam269.github.io/Star-Rating/)
+Check out the live demo: [https://itsiamdev.github.io/Star-Rating/](https://itsiamdev.github.io/Star-Rating/)
 
 ## 🛠️ Technologies Used
 
